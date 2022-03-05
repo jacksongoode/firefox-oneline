@@ -8,4 +8,4 @@ By hiding the url bar, you have **full access** to the tab bar.
 Checkout this [guide](https://www.userchrome.org/how-create-userchrome-css.html) and copy the `userChrome.css` into your `chrome` folder.
 
 ## Note:
-As an alternative to having the addons hidden with the url bar, I keep my addons on my bookmarks bar so will appear with the shortcut (Ctrl+B).
+As an alternative to having the addons hidden with the url bar, I keep my addons on my bookmarks bar and reveal them with the shortcut (Ctrl+B).
